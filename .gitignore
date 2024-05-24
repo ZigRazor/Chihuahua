@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Cached File
+.cache
+
+# CMake Directories
+build/**
+
+# CMake Generated
+**/ChihuahuaConfig.h
