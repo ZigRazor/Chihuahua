@@ -102,3 +102,8 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 We would like to thank the following individuals for their support:
 
 [![Contributors](https://contrib.rocks/image?repo=zigrazor/Chihuahua)](https://github.com/ZigRazor/Chihuahua/graphs/contributors) 
+
+## Credits
+
+Photo of <a href="https://unsplash.com/@jairoalzate?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jairo Alzate</a> on <a href="https://unsplash.com/photos/white-and-brown-chihuahua-puppy-J4QoIMyTPmA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
