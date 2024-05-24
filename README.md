@@ -1,6 +1,6 @@
 # Chihuahua
 
-<img style="float: right;" align="left" src="https://images.unsplash.com/photo-1607386176712-d8baeb6178a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hpaHVhaHVhfGVufDB8fDB8fHww" width="200">
+<img style="float: right;" align="left" src="https://images.unsplash.com/photo-1607386176712-d8baeb6178a7" width="200">
 
 C++ unique identifier utilities
 
